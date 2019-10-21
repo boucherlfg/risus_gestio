@@ -1,0 +1,6 @@
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\bin\Debug\risus_gestio.exe.config
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\bin\Debug\risus_gestio.exe
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\bin\Debug\risus_gestio.pdb
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\obj\Debug\risus_gestio.csprojResolveAssemblyReference.cache
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\obj\Debug\risus_gestio.exe
+c:\users\felix\documents\visual studio 2017\Projects\risus_gestio\risus_gestio\obj\Debug\risus_gestio.pdb
